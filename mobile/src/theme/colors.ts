@@ -1,0 +1,45 @@
+export const Colors = {
+  background: {
+    primary: "#08080E",
+    surface: "#0F0F18",
+    elevated: "#14141F",
+    raised: "#1C1F26",
+    surface3: "#242833",
+  },
+  glass: "rgba(255,255,255,0.04)",
+  border: {
+    subtle: "rgba(255,255,255,0.07)",
+    strong: "rgba(255,255,255,0.14)",
+    active: "rgba(255,92,40,0.5)",
+  },
+  accent: {
+    orange: "#FF5C28",
+    orangeDim: "rgba(255,92,40,0.15)",
+    violet: "#7C3AED",
+    violetDim: "rgba(124,58,237,0.15)",
+    cyan: "#06B6D4",
+    cyanDim: "rgba(6,182,212,0.15)",
+  },
+  state: {
+    emerald: "#10B981",
+    emeraldDim: "rgba(16,185,129,0.15)",
+    amber: "#F59E0B",
+    amberDim: "rgba(245,158,11,0.15)",
+    red: "#EF4444",
+    redDim: "rgba(239,68,68,0.15)",
+  },
+  chain: {
+    arc: "#FF5C28",
+    bsc: "#F3BA2F",
+    base: "#0052FF",
+    eth: "#627EEA",
+    solana: "#9945FF",
+    sui: "#4CA3FF",
+  },
+  text: {
+    primary: "rgba(255,255,255,0.95)",
+    secondary: "rgba(255,255,255,0.65)",
+    tertiary: "rgba(255,255,255,0.38)",
+    quaternary: "rgba(255,255,255,0.22)",
+  },
+};
